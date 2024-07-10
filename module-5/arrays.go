@@ -53,5 +53,4 @@ func main() {
 	//append to add values
 	slice = append(slice, "beni")
 	fmt.Println(slice)
-	//golang
 }
